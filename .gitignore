@@ -1,0 +1,12 @@
+.env
+**/.env
+**/auth.json
+**/.hermes/
+**/profiles/
+**/cron/
+**/logs/
+**/数据导入/
+**/*.xlsx
+**/*.xls
+**/*.csv
+
